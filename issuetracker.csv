@@ -1,0 +1,5 @@
+ID,TYPE,COMMIT #,STATUS,DESCRIPTION,REPORTER,ASSIGNEE,DUE,CREATED,RESOLVED,NOTES
+1,task,16620ba,closed,Task A,,Dylan,20-Sep,20-Sep,20-Sep,
+2,task,438b5b4,closed,Task B,,Dylan,20-Sep,20-Sep,20-Sep,
+3,task,44375af,closed,Task C,,Dylan,20-Sep,20-Sep,20-Sep,
+4,task,a914b61,closed,Add missing Mateo task output,,Dylan,20-Sep,20-Sep,20-Sep,Completed missing Mateo output
